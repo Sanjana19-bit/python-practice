@@ -6,11 +6,18 @@
 # *
 #  * *
 #  * * *
-n = int(input('enter number of rows'))
-for i in range(1,n+1):
-    for j in range(1,i+1):
-        print('*',end=' ')
-    print()    
+
+# n = int(input('enter number of rows'))
+# for i in range(1,n+1):
+#     for j in range(1,i+1):
+#         print('*',end=' ')
+#     print()    
     
+#1
+#121
+#12321
+#1234321
+
+
 
 
